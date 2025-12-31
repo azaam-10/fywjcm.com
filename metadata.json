@@ -1,0 +1,5 @@
+{
+  "name": "Mobile Account Clone",
+  "description": "A pixel-perfect clone of a mobile application's account profile page, featuring account balance, quick actions, and a feature grid.",
+  "requestFramePermissions": []
+}
